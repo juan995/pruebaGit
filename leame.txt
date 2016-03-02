@@ -1,8 +1,16 @@
 Primera linea 
 SEgunda linea commit 2
 Sigo avanzando por el master
+<<<<<<< HEAD
 otro mas
 otra mas 
 aqui vendra en exito
 Hemos hecho el merge al reves
 vamosa volver a juntarlo
+=======
+
+Se ha ralizado el merge
+
+Se acabo la prueba2 
+
+Asi esta todo perfecto
